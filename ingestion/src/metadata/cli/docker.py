@@ -18,6 +18,7 @@ import tempfile
 import time
 import traceback
 import os
+import click
 from base64 import b64encode
 from datetime import timedelta
 from typing import Optional
